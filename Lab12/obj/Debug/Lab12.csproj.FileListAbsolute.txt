@@ -1,0 +1,6 @@
+c:\users\mike spisich\documents\visual studio 2015\Projects\Lab12\Lab12\bin\Debug\Lab12.exe.config
+c:\users\mike spisich\documents\visual studio 2015\Projects\Lab12\Lab12\bin\Debug\Lab12.exe
+c:\users\mike spisich\documents\visual studio 2015\Projects\Lab12\Lab12\bin\Debug\Lab12.pdb
+c:\users\mike spisich\documents\visual studio 2015\Projects\Lab12\Lab12\obj\Debug\Lab12.csprojResolveAssemblyReference.cache
+c:\users\mike spisich\documents\visual studio 2015\Projects\Lab12\Lab12\obj\Debug\Lab12.exe
+c:\users\mike spisich\documents\visual studio 2015\Projects\Lab12\Lab12\obj\Debug\Lab12.pdb
